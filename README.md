@@ -85,3 +85,14 @@ All existing transparent Events by saani logo assets, favicons and app icons rem
 - Hero now ends directly after the CTA buttons
 - Next homepage section starts immediately after the hero
 - Desktop and tablet layouts remain unchanged
+
+
+## Final logo update
+The website now uses the latest approved Events By Saani brand set:
+- New compact navbar logo
+- New stacked primary logo
+- New icon-only brand mark
+- New white monochrome logo variant
+- New favicon set
+- New Apple touch icon
+- New Android/PWA icons

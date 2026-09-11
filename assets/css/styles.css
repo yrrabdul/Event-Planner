@@ -1239,3 +1239,41 @@ p{
     padding-bottom:14px !important;
   }
 }
+
+
+/* =========================================================
+   FINAL BRAND LOGO UPDATE
+   ========================================================= */
+.brand-navbar img{
+  height:54px !important;
+  width:auto !important;
+  max-width:205px !important;
+  object-fit:contain;
+}
+
+.brand-footer img{
+  height:112px !important;
+  width:auto !important;
+  max-width:220px !important;
+  object-fit:contain;
+  filter:none !important;
+}
+
+@media(max-width:900px){
+  .brand-navbar img{
+    height:49px !important;
+    max-width:190px !important;
+  }
+}
+
+@media(max-width:620px){
+  .brand-navbar img{
+    height:45px !important;
+    max-width:178px !important;
+  }
+
+  .brand-footer img{
+    height:96px !important;
+    max-width:190px !important;
+  }
+}
